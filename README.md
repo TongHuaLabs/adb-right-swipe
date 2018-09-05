@@ -1,5 +1,6 @@
 # adb-right-swipe
 The script uses adb shell to send a right swipe command to an android device. 
+![adb-right-swipe](https://media.giphy.com/media/1YhafTPh3KOnmjDfni/giphy.gif)
 ## Usage:
 1. Install adb shell on the computer that will be used to run the python script.
 2. On the android device, turn on developer mode. Under "Developer options", enable "USB debugging".
@@ -13,3 +14,5 @@ e.g. to swipe 100 times run
 ```
 python right-swipe.py 100
 ```
+## Use cases
+Tinder, Tan Tan, etc.
